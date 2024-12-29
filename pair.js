@@ -97,7 +97,7 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "JawadTechX",
-thumbnailUrl: "https://files.catbox.moe/89xq3r.jpg",
+thumbnailUrl: "https://raw.githubusercontent.com/JAWADXD55/JawadX/refs/heads/main/JAWAD.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j",
 mediaType: 1,
 renderLargerThumbnail: true
@@ -113,7 +113,7 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "KHAN-MD",
-thumbnailUrl: "https://files.catbox.moe/89xq3r.jpg",
+thumbnailUrl: "https://raw.githubusercontent.com/JAWADXD55/JawadX/refs/heads/main/JAWAD.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j",
 mediaType: 2,
 renderLargerThumbnail: true,
